@@ -1,5 +1,5 @@
 # CovidProject
-Exploration of the OWID Covid-19 dataset
+Exploration of the OWID Covid-19 dataset with SQL
 
 Source: https://ourworldindata.org/covid-deaths
 
